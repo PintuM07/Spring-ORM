@@ -28,7 +28,7 @@ public class App {
 		boolean go = true;
 		while (go) {
 
-			System.out.println("Press 1 for new Student");
+			System.out.println("Press 1 for adding a new Student");
 			System.out.println("Press 2 for Dispaly all the Students");
 			System.out.println("Press 3 for detail of a single Student");
 			System.out.println("press 4 for delete Student");

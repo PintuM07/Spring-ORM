@@ -28,12 +28,12 @@ public class App {
 		boolean go = true;
 		while (go) {
 
-			System.out.println("Press 1 for adding a new Student");
-			System.out.println("Press 2 for Dispaly all the Students");
-			System.out.println("Press 3 for detail of a single Student");
-			System.out.println("press 4 for delete Student");
-			System.out.println("Press 5 for update Student");
-			System.out.println("Press 6 for Exit");
+			System.out.println("Press 1 for adding a new Student.");
+			System.out.println("Press 2 for Dispaly all the Students.");
+			System.out.println("Press 3 for detail of a single Student.");
+			System.out.println("press 4 for delete Student.");
+			System.out.println("Press 5 for update Student.");
+			System.out.println("Press 6 for Exit.");
 
 			try {
 				int input = Integer.parseInt(br.readLine());
